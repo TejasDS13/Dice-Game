@@ -24,7 +24,7 @@ h1 {
 
 p {
   font-size: 2rem;
-  color: #000000;
+  color: #181717;
   font-family: 'Indie Flower', cursive;
 }
 
@@ -32,10 +32,6 @@ img {
   width: 80%;
 }
 
-footer {
-  margin-top: 5%;
-  color: #EEEEEE;
-  text-align: center;
-  font-family: 'Indie Flower', cursive;
+
 
 }
